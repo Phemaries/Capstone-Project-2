@@ -64,7 +64,7 @@ Multiple models were trained and compared for the dataset (60% training/ 20% val
 | Logistic Regression                | 35%                                  |45%   | 
 | DecisionTree Classifier            | 48%                                  |52%   | 
 | Random Forest Classifier           | 61%                                  |53%   |
-| DRidge Classifier                  | 77%                                  |78%   |  
+| Ridge Classifier                  | 77%                                  |78%   |  
 
 
 
